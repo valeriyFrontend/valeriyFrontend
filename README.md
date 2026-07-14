@@ -1,4 +1,3 @@
-```ansi
 [1;38;5;214mvaleriyFrontend[0m@[1;34mgithub[0m ------------------------------------------------------
 . [38;5;214mOS[0m: ........................................... macOS, Linux, Windows
 . [38;5;214mUptime[0m: ....................................... 3+ years of commercial experience
@@ -18,4 +17,3 @@
 . [38;5;214mLinkedIn[0m: ..................................... [linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)
 . [38;5;214mTelegram[0m: ..................................... t.me/YOUR-USERNAME
 . [38;5;214mGitHub[0m: ....................................... [github.com/valeriyFrontend](https://github.com/valeriyFrontend)
-```
