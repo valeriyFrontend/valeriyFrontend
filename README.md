@@ -11,13 +11,6 @@
 
 </div>
 
-## 🚀 About Me
-
-I'm a **Frontend and Full-Stack Software Engineer** with over **4+ years** of commercial experience building modern, responsive, and highly scalable web applications. My core expertise revolves around the **React / Next.js** ecosystem, **Node.js** architectures, and decentralized applications (**Web3 / dApps**).
-
-I value deep focus, automation, and maintaining a highly structured, optimized system — both in my codebases and my personal workflows.
-
-
 ## 🛠️ What I Work With
 
 <div style="overflow-x: auto;">
