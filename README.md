@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Valeriy%20Frontend&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Engineer%20%7C%20React%20%2F%20Next.js%20%2F%20Web3&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:6366f1&height=200&section=header&text=Valeriy%20Frontend&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Engineer%20%7C%20React%20%2F%20Next.js%20%2F%20Web3&descAlignY=58&descSize=16" width="100%" />
 
 <br/>
 
@@ -30,31 +30,55 @@ I value deep focus, automation, and maintaining a highly structured, optimized s
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 💻 Frontend & Web3
-- TypeScript, JavaScript
-- React, Next.js
-- Wagmi, dApps integration
-- HTML, CSS
+### 💻
+### Frontend & Web3
+
+━━━━━━━━━━━━━━━
+
+**TypeScript · JavaScript**
+React & Next.js apps
+
+**Wagmi**
+dApps integration
+
+**HTML · CSS**
+Responsive UI/UX
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ⚙️ Backend & DevOps
-- Node.js
-- Docker & self-hosted stacks
-- Git automation pipelines
-- Local server configuration
+### ⚙️
+### Backend & DevOps
+
+━━━━━━━━━━━━━━━
+
+**Node.js**
+API & server logic
+
+**Docker**
+Self-hosted media stacks
+
+**Git**
+Automated workflows & CI
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🧠 Productivity & PKM
-- Obsidian (fractal PKM layout)
-- Custom Git automation
-- AI-assisted workflows
-- Stoicism as a working philosophy
+### 🧠
+### Productivity & PKM
+
+━━━━━━━━━━━━━━━
+
+**Obsidian**
+Fractal PKM layout
+
+**Automation**
+Custom Git pipelines
+
+**Mindset**
+Stoicism as a working philosophy
 
 </td>
 </tr>
@@ -82,31 +106,6 @@ I value deep focus, automation, and maintaining a highly structured, optimized s
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=valeriyFrontend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=valeriyFrontend&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriyFrontend&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<br/>
-
-## 🌱 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valeriyFrontend&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <i>"You have power over your mind — not outside events. Realize this, and you will find strength."</i>
@@ -114,6 +113,6 @@ I value deep focus, automation, and maintaining a highly structured, optimized s
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
