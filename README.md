@@ -1,90 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:6366f1&height=200&section=header&text=Valeriy%20Frontend&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Engineer%20%7C%20React%20%2F%20Next.js%20%2F%20Web3&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=150&section=header" width="100%" />
+
+<a href="https://github.com/valeriyFrontend">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Full-Stack+Engineer;React+%2F+Next.js+%2F+Node.js;Web3+%2F+dApps+Builder;Automation+%26+PKM+Enthusiast&font=Fira+Code&center=true&width=520&height=40&color=6366F1&vCenter=true&size=20" />
+</a>
 
 <br/>
 
-<a href="https://github.com/valeriyFrontend">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Full-Stack+Engineer;React+%2F+Next.js+%2F+Node.js;Web3+%2F+dApps+Builder;Automation+%26+PKM+Enthusiast&font=Fira+Code&center=true&width=520&height=45&color=6366F1&vCenter=true&size=22" />
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/YOUR-USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://github.com/valeriyFrontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/valeriy-kovalenko-7b1877196"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/ValKoTg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
 ## 🚀 About Me
 
-I'm a **Frontend and Full-Stack Software Engineer** with over **3+ years** of commercial experience building modern, responsive, and highly scalable web applications. My core expertise revolves around the **React / Next.js** ecosystem, **Node.js** architectures, and decentralized applications (**Web3 / dApps**).
+I'm a **Frontend and Full-Stack Software Engineer** with over **4+ years** of commercial experience building modern, responsive, and highly scalable web applications. My core expertise revolves around the **React / Next.js** ecosystem, **Node.js** architectures, and decentralized applications (**Web3 / dApps**).
 
 I value deep focus, automation, and maintaining a highly structured, optimized system — both in my codebases and my personal workflows.
 
-<br/>
 
 ## 🛠️ What I Work With
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
+<div style="overflow-x: auto;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td>
+<pre style="color: #ffffff; background: transparent; font-family: monospace; line-height: 1.4; margin: 0; padding: 0;">
+<span style="color: #ffffff; font-weight: bold;">valeriyFrontend</span>@<span style="color: #689d6a; font-weight: bold;">github</span> ------------------------------------------------------
+. <span style="color: #fe8019;">OS</span>: ........................................... macOS
+. <span style="color: #fe8019;">Uptime</span>: ....................................... 4+ years of commercial experience
+. <span style="color: #fe8019;">Host</span>: ......................................... Frontend & Full-Stack Engineer
+. <span style="color: #fe8019;">IDE</span>: .......................................... <span style="color: #83a598;">Cursor, Antigravity</span>
 
-### 💻
-### Frontend & Web3
+. <span style="color: #fe8019;">Languages.Programming</span>: ........................ TypeScript, JavaScript, Node.js
+. <span style="color: #fe8019;">Languages.Computer</span>: ........................... HTML, CSS, JSON, Markdown, YAML
+. <span style="color: #fe8019;">Technologies.Frontend</span>: ........................ React, Next.js, Wagmi, dApps
 
-━━━━━━━━━━━━━━━
+<span style="color: #ffffff; font-weight: bold;">Hobbies</span> --------------------------------------------------------------------
+. <span style="color: #fe8019;">Tech</span>: ......................................... AI, Self-hosted Docker
+. <span style="color: #fe8019;">Systems</span>: ...................................... Obsidian PKM, Git automation
 
-**TypeScript · JavaScript**
-React & Next.js apps
-
-**Wagmi**
-dApps integration
-
-**HTML · CSS**
-Responsive UI/UX
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚙️
-### Backend & DevOps
-
-━━━━━━━━━━━━━━━
-
-**Node.js**
-API & server logic
-
-**Docker**
-Self-hosted media stacks
-
-**Git**
-Automated workflows & CI
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🧠
-### Productivity & PKM
-
-━━━━━━━━━━━━━━━
-
-**Obsidian**
-Fractal PKM layout
-
-**Automation**
-Custom Git pipelines
-
-**Mindset**
-Stoicism as a working philosophy
-
-</td>
-</tr>
+<span style="color: #ffffff; font-weight: bold;">Contact</span> --------------------------------------------------------------------
+. <span style="color: #fe8019;">LinkedIn</span>: ..................................... <a href="https://linkedin.com/in/valeriy-kovalenko-7b1877196" style="color: #83a598; text-decoration: none;">valeriy-kovalenko-7b1877196</a>
+. <span style="color: #fe8019;">Telegram</span>: ..................................... <a href="https://t.me/ValKoTg" style="color: #83a598; text-decoration: none;">t.me/ValKoTg</a>
+</pre>
+    </td>
+  </tr>
 </table>
-
-<br/>
+</div>
 
 ## 📊 Tech Stack
 
@@ -104,15 +68,14 @@ Stoicism as a working philosophy
 
 </div>
 
-<br/>
 
 <div align="center">
 
 <i>"You have power over your mind — not outside events. Realize this, and you will find strength."</i>
 <br/>— Marcus Aurelius
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
