@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Full-Stack+Engineer;React+%2F+Next.js+%2F+Node.js;Web3+%2F+dApps+Builder;Automation+%26+PKM+Enthusiast&font=Fira+Code&center=true&width=520&height=40&color=6366F1&vCenter=true&size=20" />
 </a>
 
-<br/>
-
 <a href="https://linkedin.com/in/valeriy-kovalenko-7b1877196"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/ValKoTg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
@@ -68,13 +66,12 @@ I value deep focus, automation, and maintaining a highly structured, optimized s
 
 </div>
 
+<br/>
 
 <div align="center">
 
 <i>"You have power over your mind — not outside events. Realize this, and you will find strength."</i>
 <br/>— Marcus Aurelius
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" />
 
