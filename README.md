@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=150&section=header" width="100%" />
 
 <a href="https://github.com/valeriyFrontend">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%26+Full-Stack+Engineer;React+%2F+Next.js+%2F+Node.js;Web3+%2F+dApps+Builder;Automation+%26+PKM+Enthusiast&font=Fira+Code&center=true&width=520&height=40&color=6366F1&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+Web3+Engineer;React+%2F+Next.js+%2F+Node.js+%2F+NestJS;AI-Native+Developer;Automation+%26+PKM+Enthusiast&font=Fira+Code&center=true&width=520&height=40&color=6366F1&vCenter=true&size=20" />
 </a>
 
 <a href="https://linkedin.com/in/valeriy-kovalenko-7b1877196"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend and Full-Stack Software Engineer** with over **4+ years** of commercial experience building modern, responsive, and highly scalable web applications. My core expertise revolves around the **React / Next.js** ecosystem, **Node.js** architectures, and decentralized applications (**Web3 / dApps**).
+I'm a **Frontend & Full-Stack Software Engineer** with over **4+ years** of commercial experience building modern, responsive, and highly scalable web applications. My core expertise revolves around the **React / Next.js** ecosystem, **Node.js / NestJS** architectures, and decentralized applications (**Web3 / dApps**).
 
-I value deep focus, automation, and maintaining a highly structured, optimized system — both in my codebases and my personal workflows.
+I value deep focus, automation, AI-native developer workflows, and maintaining a highly structured, optimized system — both in my codebases and my personal productivity setups.
 
 ## 🛠️ What I Work With
 
@@ -27,15 +27,16 @@ I value deep focus, automation, and maintaining a highly structured, optimized s
 <span style="color: #ffffff; font-weight: bold;">valeriyFrontend</span>@<span style="color: #689d6a; font-weight: bold;">github</span> ------------------------------------------------------
 . <span style="color: #fe8019;">OS</span>: ........................................... macOS
 . <span style="color: #fe8019;">Uptime</span>: ....................................... 4+ years of commercial experience
-. <span style="color: #fe8019;">Host</span>: ......................................... Frontend & Full-Stack Engineer
-. <span style="color: #fe8019;">IDE</span>: .......................................... <span style="color: #83a598;">Cursor, Antigravity</span>
+. <span style="color: #fe8019;">Host</span>: ......................................... Full-Stack & Web3 Engineer
+. <span style="color: #fe8019;">IDE / AI Tools</span>: ............................... <span style="color: #83a598;">Cursor, Claude Code, Antigravity</span>
 
-. <span style="color: #fe8019;">Languages.Programming</span>: ........................ TypeScript, JavaScript, Node.js
-. <span style="color: #fe8019;">Languages.Computer</span>: ........................... HTML, CSS, JSON, Markdown, YAML
-. <span style="color: #fe8019;">Technologies.Frontend</span>: ........................ React, Next.js, Wagmi, dApps
+. <span style="color: #fe8019;">Languages.Programming</span>: ........................ TypeScript, JavaScript, SQL
+. <span style="color: #fe8019;">Technologies.Frontend</span>: ........................ React 19, Next.js, Zustand, TailwindCSS, FSD
+. <span style="color: #fe8019;">Technologies.Backend</span>: ......................... Node.js, NestJS, Express, PostgreSQL
+. <span style="color: #fe8019;">Technologies.Web3</span>: ............................ Wagmi, Ethers.js, Viem, WalletConnect
 
 <span style="color: #ffffff; font-weight: bold;">Hobbies</span> --------------------------------------------------------------------
-. <span style="color: #fe8019;">Tech</span>: ......................................... AI, Self-hosted Docker
+. <span style="color: #fe8019;">Tech</span>: ......................................... AI Workflows, Self-hosted Docker, Web3/DeFi
 . <span style="color: #fe8019;">Systems</span>: ...................................... Obsidian PKM, Git automation
 
 <span style="color: #ffffff; font-weight: bold;">Contact</span> --------------------------------------------------------------------
@@ -52,16 +53,16 @@ I value deep focus, automation, and maintaining a highly structured, optimized s
 <div align="center">
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 
 </div>
 
